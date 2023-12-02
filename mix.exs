@@ -1,9 +1,9 @@
-defmodule Calibration.MixProject do
+defmodule AdventOfCode2023.MixProject do
   use Mix.Project
 
   def project do
     [
-      app: :calibration,
+      app: :adventofcode2023,
       version: "0.1.0",
       elixir: "~> 1.9",
       start_permanent: Mix.env() == :prod,

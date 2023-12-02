@@ -1,4 +1,4 @@
-defmodule Calibration do
+defmodule AdventOfCode2023.Calibration do
   @moduledoc false
 
   def read_file(file_path) do
